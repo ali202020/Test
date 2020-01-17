@@ -1,1 +1,8 @@
-askldfklasfkl
+- git init 
+- git config --global user.email "your registeration email on Git"
+- git config --global user.name "your Name on Git"
+- git remote add origin `copy the link of your remote repository here`
+- git add `your file name+ extention or '.' to add all files`
+- git commit -m "your message here"
+- git push     //for the first time to keep track of your master branch use : git push --set-upstream origin master
+
